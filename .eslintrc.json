@@ -32,6 +32,6 @@
         "arrow-body-style": "error",
         "no-console": "warn",
         "react/no-unknown-property": "warn",
-        "@typescript-eslint/no-explicit-any": "error"
+        "@typescript-eslint/no-explicit-any": "error",
     }
 }
