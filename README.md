@@ -29,4 +29,4 @@ Caso você precise criar componentes especificos para `page` de login, você ter
 
 Boa sorte 👍
 
-Caso de duvidas, contactar `Eduardo Rafael Scrobote`
+Caso de duvidas, contactar `Eduardo Scrobote`
