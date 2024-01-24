@@ -1,7 +1,5 @@
 # Next Layout
 
-Fala seus putos, isso aqui é um layout 👍
-
 ## Segue a arquitetura de pastas
 - `app` - Rotas 👍
 - `components` - Pasta usada para componentes genérios;
